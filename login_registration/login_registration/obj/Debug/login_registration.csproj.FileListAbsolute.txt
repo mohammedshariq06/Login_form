@@ -1,0 +1,15 @@
+E:\vs projrct\login_registration\login_registration\bin\Debug\login_registration.exe.config
+E:\vs projrct\login_registration\login_registration\bin\Debug\login_registration.exe
+E:\vs projrct\login_registration\login_registration\bin\Debug\login_registration.pdb
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.frmLogin.resources
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.Properties.Resources.resources
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.csproj.GenerateResource.cache
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.csproj.CoreCompileInputs.cache
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.exe
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.pdb
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.dashboard.resources
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.Regt1.resources
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.regt2.resources
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.regt4.resources
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.csprojAssemblyReference.cache
+E:\vs projrct\login_registration\login_registration\obj\Debug\login_registration.Form1.resources
